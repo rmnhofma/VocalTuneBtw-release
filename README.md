@@ -24,14 +24,14 @@ It runs natively on Linux, with no network access and no telemetry.
 
 ## Install
 
-Download the latest version from the [Releases page](https://github.com/PluginsBTW/VocalTuneBtw-release/releases),
+Download the latest version from the [Releases page](https://github.com/rmnhofma/VocalTuneBtw-release/releases),
 or with these commands:
 
 ```bash
-curl -LO https://github.com/PluginsBTW/VocalTuneBtw-release/releases/download/v2.0.3/VocalTuneBtw-2.0.3-linux-x86_64.tar.gz
-curl -LO https://github.com/PluginsBTW/VocalTuneBtw-release/releases/download/v2.0.3/VocalTuneBtw-2.0.3-linux-x86_64.tar.gz.sha256
-sha256sum -c VocalTuneBtw-2.0.3-linux-x86_64.tar.gz.sha256 && tar xzf VocalTuneBtw-2.0.3-linux-x86_64.tar.gz
-cd VocalTuneBtw-2.0.3-linux-x86_64
+curl -LO https://github.com/rmnhofma/VocalTuneBtw-release/releases/download/v2.0.4/VocalTuneBtw-2.0.4-linux-x86_64.tar.gz
+curl -LO https://github.com/rmnhofma/VocalTuneBtw-release/releases/download/v2.0.4/VocalTuneBtw-2.0.4-linux-x86_64.tar.gz.sha256
+sha256sum -c VocalTuneBtw-2.0.4-linux-x86_64.tar.gz.sha256 && tar xzf VocalTuneBtw-2.0.4-linux-x86_64.tar.gz
+cd VocalTuneBtw-2.0.4-linux-x86_64
 ```
 
 Install for your user:

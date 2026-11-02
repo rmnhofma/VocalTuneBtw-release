@@ -2,7 +2,7 @@
 
 **Real-time pitch correction for monophonic vocals, built natively for Linux.**
 
-Version 2.0.3. To install it, see the [README](README.md).
+Version 2.0.4. To install it, see the [README](README.md).
 
 ## Getting started
 
