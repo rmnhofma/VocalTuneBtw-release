@@ -28,10 +28,10 @@ Download the latest version from the [Releases page](https://github.com/rmnhofma
 or with these commands:
 
 ```bash
-curl -LO https://github.com/rmnhofma/VocalTuneBtw-release/releases/download/v2.0.4/VocalTuneBtw-2.0.4-linux-x86_64.tar.gz
-curl -LO https://github.com/rmnhofma/VocalTuneBtw-release/releases/download/v2.0.4/VocalTuneBtw-2.0.4-linux-x86_64.tar.gz.sha256
-sha256sum -c VocalTuneBtw-2.0.4-linux-x86_64.tar.gz.sha256 && tar xzf VocalTuneBtw-2.0.4-linux-x86_64.tar.gz
-cd VocalTuneBtw-2.0.4-linux-x86_64
+curl -LO https://github.com/rmnhofma/VocalTuneBtw-release/releases/download/v2.0.5/VocalTuneBtw-2.0.5-linux-x86_64.tar.gz
+curl -LO https://github.com/rmnhofma/VocalTuneBtw-release/releases/download/v2.0.5/VocalTuneBtw-2.0.5-linux-x86_64.tar.gz.sha256
+sha256sum -c VocalTuneBtw-2.0.5-linux-x86_64.tar.gz.sha256 && tar xzf VocalTuneBtw-2.0.5-linux-x86_64.tar.gz
+cd VocalTuneBtw-2.0.5-linux-x86_64
 ```
 
 Install for your user:

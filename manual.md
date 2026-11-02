@@ -2,7 +2,7 @@
 
 **Real-time pitch correction for monophonic vocals, built natively for Linux.**
 
-Version 2.0.4. To install it, see the [README](README.md).
+Version 2.0.5. To install it, see the [README](README.md).
 
 ## Getting started
 
@@ -40,7 +40,7 @@ Behind the gear icon:
 
 ![The settings page](images/settings.png)
 
-All controls are host parameters and can be automated. Clicking the logo opens this page.
+All controls are host parameters and can be automated. Clicking the logo opens [the plugin's page](https://rmnhofma.github.io/plugins/vocaltunebtw/).
 
 ## How to use it
 
