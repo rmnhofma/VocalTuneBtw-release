@@ -1,5 +1,8 @@
 # VocalTuneBtw manual
 
+> **Discontinued** since 6 Nov 2026: VocalTuneBtw gets no new releases. v2.0.5, the last one, stays
+> here to download and keeps working.
+
 **Real-time pitch correction for monophonic vocals, built natively for Linux.**
 
 Version 2.0.5. To install it, see the [README](README.md).
